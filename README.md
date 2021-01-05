@@ -4,11 +4,17 @@ The Jupyter Notebook contains a K-Means Cluster Analysis and Gaussian Mixture Mo
 
 Example Groups:
 Inefficient 3PT Shot Creators: Russell Westbrook, Victor Oladipo, Jimmy Butler, etc.
+
 High Volume, Volatile Spot-up Shooters: Eric Gordon, Lauri Markkanen, Danny Green, Jae Crowder etc.
+
 Extreme High Volume 3PT Shot Creators: Trae Young, Damian Lillard, James Harden, Luka Doncic, etc.
+
 General 3PT Shot Creators: Kyrie Irving, Kemba Walker, Chris Paul, D'Angelo Russell, etc.
+
 3PT Shot Creator + Spot-Up Shooter: Paul George, C.J. McCollum, Bradley Beal, Khris Middleton, etc.
+
 Hyper Efficient Spot-Up Shooters: Duncan Robinson, Joe Harris, Brandon Ingram, Kyle Korver, etc.
+
 ...etc.
 
 ![alt text](https://i.imgur.com/7DelN6J.png)
