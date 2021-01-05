@@ -2,7 +2,8 @@
 
 The Jupyter Notebook contains a K-Means Cluster Analysis and Gaussian Mixture Model (GMM) for NBA 3PT shooting data. After using GMM, players from the 2019-20 season were divided into 13 different groups by the "type of 3-pt shooter". A minimum spanning tree / network graph in Tableau was then created thanks to a tutorial that can be found [here](https://ladataviz.com/2019/12/15/build-a-network-graph-in-tableau-in-three-steps/). (The tutorial does seem to be outdated as a number of bugs were ran into). More details on the step-by-step process can be found written in the notebook itself.
 
-Example Groups:
+**Example Groups:**
+
 Inefficient 3PT Shot Creators: Russell Westbrook, Victor Oladipo, Jimmy Butler, etc.
 
 High Volume, Volatile Spot-up Shooters: Eric Gordon, Lauri Markkanen, Danny Green, Jae Crowder etc.
